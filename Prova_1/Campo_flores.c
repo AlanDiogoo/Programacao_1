@@ -39,7 +39,9 @@ int main()
     }
   }
   else
+  {
     printf("0%, Ekul nao acordou disposto hoje :(");
+  }
 
   return 0;
 }
